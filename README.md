@@ -17,7 +17,7 @@ Balle Bot é um bot desenvolvido pela staff da comunidade Ballerini. É um proje
 
 - 🎬 Vídeo da Rafa: https://www.youtube.com/watch?v=llF6vD-RljE
  
-- 🖥 Site:
+- 🖥 Site: https://melribeiro.github.io/Balle-Bot/
 
 
 ### 🔨 Construído com:
